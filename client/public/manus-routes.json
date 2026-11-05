@@ -1,0 +1,19 @@
+{
+  "routes": [
+    { "path": "/", "title": "LearnMesh Dashboard" },
+    { "path": "/dashboard", "title": "LearnMesh Dashboard" },
+    { "path": "/workspace/:slug", "title": "LearnMesh Workspace" },
+    { "path": "/workspace/mse", "title": "MSE Upload Hub" },
+    { "path": "/workspace/classes", "title": "My Classes" },
+    { "path": "/workspace/assignment-management", "title": "Assignment Management" },
+    { "path": "/agents/coordinator", "title": "Coordinator Agent" },
+    { "path": "/agents/tutor", "title": "Tutor Agent" },
+    { "path": "/agents/assignment-generation", "title": "Assignment Generation Agent" },
+    { "path": "/agents/student-model", "title": "Student Modeling Agent" },
+    { "path": "/agents/knowledge-tracing", "title": "Knowledge Tracing Agent" },
+    { "path": "/agents/learning-analytics", "title": "Learning Analytics Agent" },
+    { "path": "/agents/knowledge-graph", "title": "Knowledge Graph Agent" },
+    { "path": "/agents/recommendation", "title": "Recommendation Agent" },
+    { "path": "/agents/explainability", "title": "Explainability Agent" }
+  ]
+}
